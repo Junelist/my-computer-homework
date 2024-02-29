@@ -1,2 +1,2 @@
-# 0227
-This is my homework of 0227
+#  the first to share the project
+This is my homework of Introduction to Computing
